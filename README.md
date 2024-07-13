@@ -1,8 +1,9 @@
-# React + Vite
+## Calculator - System Analysis and Design Project. ➗➕✖➖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the repository for the project by Okoye Charles. A Calculator engineered using the DevOps methodology.
 
-Currently, two official plugins are available:
+[visit deployed project](charles-calculator.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div align="center">
+  <img width="480" alt="Screenshot 2024-07-13 at 20 14 12" src="https://github.com/user-attachments/assets/02f5bf33-de78-4821-abf6-5cb33d4b5ee0">
+</div>
