@@ -35,6 +35,7 @@ export default function Calculator() {
   }
 
   function calculate() {
+    if (!display) return;
     const blackList = ["Infinity", "NaN"];
     try {
       const calculatedAnswer = eval(display);
